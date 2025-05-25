@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.steak{
+    padding: 30px;
+    margin: 15px;
+    background-color: grey;
+    text-align: center;
+}
+
+.chicken{
+    padding: 30px;
+    margin: 15px;
+     background-color: grey;
+     text-align: center;
+    
+}
+
+.eggs{
+   padding: 30px;
+   margin: 15px;
+    background-color: grey;
+     text-align: center;
+}
+
+.steak-image{
+    max-width: 100px;
+}
+
+.chicken-image{
+    max-width: 100px;
+}
+
+.eggs-image{
+    max-width: 100px;
+}
